@@ -1,0 +1,130 @@
+cord smile 
+0.02
+car journey 
+1.55
+rooster voyage 
+0.04
+cemetery mound 
+1.69
+noon string 
+0.04
+glass jewel 
+1.78
+fruit furnace 
+0.05
+magician oracle 
+1.82
+autograph shore 
+0.06
+crane implement 
+2.37
+automobile wizard 
+0.11
+brother lad 
+2.41
+mound stove 
+0.14
+sage wizard 
+2.46
+grin implement 
+0.18
+oracle sage 
+2.61
+asylum fruit 
+0.19
+bird crane 
+2.63
+asylum monk 
+0.39
+bird cock 
+2.63
+graveyard madhouse 
+0.42
+food fruit 
+2.69
+glass magician 
+0.44
+brother monk 
+2.74
+boy rooster 
+0.44
+asylum madhouse 
+3.04
+cushion jewel 
+0.45
+furnace stove 
+3.11
+monk slave 
+0.57
+magician wizard 
+3.21
+asylum cemetery 
+0.79
+hill mound 
+3.29
+coast forest 
+0.85
+cord string 
+3.41
+grin lad 
+0.88
+glass tumbler 
+3.45
+shore woodland 
+0.90
+grin smile 
+3.46
+monk oracle 
+0.91
+serf slave 
+3.46
+boy sage 
+0.96
+journey voyage 
+3.58
+automobile cushion 
+0.97
+autograph signature 
+3.59
+mound shore 
+0.97
+coast shore 
+3.60
+lad wizard 
+0.99
+forest woodland 
+3.65
+forest graveyard 
+1.0
+implement tool 
+3.66
+food rooster 
+1.09
+cock rooster 
+3.68
+cemetery woodland 
+1.18
+boy lad 
+3.82
+shore voyage 
+1.22
+cushion pillow 
+3.84
+bird woodland 
+1.24
+cemetery graveyard 
+3.88
+coast hill 
+1.26
+automobile car 
+3.92
+furnace implement 
+1.37
+midday noon 
+3.94
+crane rooster 
+1.41
+gem jewel 
+3.94
+hill woodland 
+1.48
